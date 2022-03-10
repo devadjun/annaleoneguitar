@@ -213,6 +213,7 @@ footer .footer-fineprint {
 .icons-bio {
   color: #fdb833;
   text-align: center;
+  margin-bottom: 1.5rem;
 }
 
 .watermark {
@@ -429,7 +430,7 @@ footer .footer-fineprint {
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 820px) {
   .wrapper {
     display: -ms-grid;
     display: grid;

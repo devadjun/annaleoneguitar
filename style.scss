@@ -157,6 +157,7 @@ footer {
 .icons-bio {
   color: #fdb833;
   text-align: center;
+  margin-bottom: 1.5rem;
 }
 .watermark {
   width: 5rem;
@@ -356,7 +357,7 @@ footer {
 }
 
 //VIDEO
-@media (min-width: 768px) {
+@media (min-width: 820px) {
   .wrapper {
     display: grid;
     grid-template-columns: minmax(1em, 1fr) minmax(1em, 1fr) minmax(1em, 1fr);
